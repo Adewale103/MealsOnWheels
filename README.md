@@ -2,7 +2,7 @@
 
 ### This project is a food delivery related website .
 
-#### This projet specialty
+#### This project specialty
 
     1. This project frontend react js and backend node js
     2. It is fast loading website.
